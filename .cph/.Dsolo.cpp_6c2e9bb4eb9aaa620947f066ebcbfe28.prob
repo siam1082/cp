@@ -1,0 +1,1 @@
+{"name":"Local: Dsolo","url":"c:\\Users\\user\\OneDrive\\Desktop\\siam1\\Dsolo.cpp","tests":[{"id":1775209531303,"input":"4 4\n....\n.###\n##..\n###.\n","output":"1\n"},{"id":1775210511665,"input":"...\n.##\n.##","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\user\\OneDrive\\Desktop\\siam1\\Dsolo.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: solo9B","url":"c:\\Users\\user\\OneDrive\\Desktop\\siam1\\solo9B.cpp","tests":[{"id":1775813990480,"input":"3\n4\n0 0 3 3\n3\n2 0 1\n4\n4 4 1 0\n","output":"2\n0\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\user\\OneDrive\\Desktop\\siam1\\solo9B.cpp","group":"local","local":true}

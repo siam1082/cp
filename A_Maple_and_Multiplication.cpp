@@ -1,0 +1,29 @@
+#include <bits/stdc++.h>
+using namespace std;
+#define nl "\n"
+#define ll long long
+void solve(){
+    int n,k;
+    cin>>n>>k;
+    if(n==k){
+        cout<< 0<< nl;
+    }
+    else if(n%k==0 || k%n==0){
+        cout<<1<<nl;
+    }
+    else{
+        cout<<2<<nl;
+    }
+
+}
+int main(){
+    ios::sync_with_stdio(false);
+    cin.tie(0);
+    int t;
+    cin >>t;
+
+    while(t--){
+        solve();
+    }
+
+}
